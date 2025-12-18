@@ -1,13 +1,106 @@
-Welcome to my GitHub profile! I'm Shiva4004, a versatile developer proficient in a wide range of technologies. I specialize in Android, Angular, and AngularJS app development, with expertise in HTML5, CSS3, Bootstrap, and JavaScript for building interactive and responsive user interfaces.
+# Shiva Yadav (@Shiva4004)
 
-On the backend, I work with databases such as MariaDB, MongoDB, MSSQL, and MySQL. I have experience in server configuration with Nginx on Linux, and I utilize Node.js, PHP, and Python for server-side development.
+> **Low-level systems developer | OS internals | Windows-on-Linux research**
+> *I build things to understand how computers really work.*
 
-In the mobile app realm, I'm skilled in Java, Kotlin, and JavaScript, enabling me to create cross-platform apps using React Native or native Android development. I integrate Firebase services and leverage Git and Postman for version control and API testing.
+---
 
-I also have experience with Unity and Unreal Engine for game development. With a passion for learning and staying up-to-date with emerging technologies, I'm always excited to take on new challenges.
+## 👋 About Me
 
-Let's connect, collaborate, and create remarkable projects together!
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+I’m **Shiva Yadav**, a **17-year-old developer from India** with a deep interest in **operating systems, binary execution, and low-level software design**.
 
-in.linkedin.com/in/shiva-yadav1
+My journey started with application and web development, but over time I found myself drawn toward the layers *beneath* frameworks — loaders, memory layouts, ABIs, executable formats, and the mechanics of how a program actually becomes a running process.
+
+Today, my focus is firmly on **systems-level engineering** and **learning by building from first principles**.
+
+---
+
+## 🧠 Current Focus
+
+Right now, most of my time is spent exploring:
+
+* ⚙️ **Operating system internals**
+* 🪟➡️🐧 **Running Windows binaries on Linux**
+* 📦 Executable formats (PE, ELF)
+* 🧩 Relocations, loaders, and startup routines
+* 🔬 ABI behavior and calling conventions
+* 🛠️ Writing small, explicit, debuggable systems code
+
+I enjoy working close to the boundary where **software meets the operating system**.
+
+---
+
+## 🚀 Flagship Work
+
+### **QVZ Linux Subsystem for Windows (QVZ-LSW)**
+
+An **independent, research-driven systems project** that explores running **Windows PE executables on Linux** by re-implementing the Windows loader and execution model from scratch.
+
+The project focuses on understanding:
+
+* How Windows executables are loaded
+* How relocations actually work in practice
+* Where Windows and Linux execution models differ
+* What really happens before `main()` is ever called
+
+This project is about **understanding**, not abstraction or convenience.
+
+---
+
+## 🔍 Technical Interests
+
+* Low-level systems programming (C, low-level C++)
+* OS loaders and memory management
+* Cross-platform execution models
+* Binary analysis and reverse engineering (for learning)
+* Debugging complex, undocumented behaviors
+
+I’m especially interested in areas where **documentation ends and experimentation begins**.
+
+---
+
+## 🧰 Background
+
+Before focusing on systems work, I built experience across the software stack:
+
+* 🌐 Frontend: HTML, CSS, JavaScript
+* 🖥️ Backend: Node.js, PHP, Python
+* 🗄️ Databases: MySQL, MongoDB, MariaDB, MSSQL
+* 🐧 Linux servers: Nginx configuration and deployment
+* 📱 Mobile development: Android (Java, Kotlin)
+* 🎮 Game engines: Unity & Unreal Engine (exploration)
+
+This background helps me reason about systems **end-to-end**, from user interfaces down to execution internals.
+
+---
+
+## 🧭 Philosophy
+
+* **Learn by building** — theory sticks when it’s implemented
+* **Understand before abstracting**
+* **Correctness over shortcuts**
+* **Small, readable code over large frameworks**
+* Curiosity beats credentials
+
+---
+
+## 🌍 Beyond Code
+
+I enjoy thinking about:
+
+* How operating systems evolve
+* Why design trade-offs exist in real systems
+* How constraints shape good engineering
+
+I believe strong engineers are formed by **curiosity, patience, and persistence**, not just tools.
+
+---
+
+## 🔗 Connect With Me
+
+**LinkedIn**: [https://www.linkedin.com/in/shiva-yadav1/](https://www.linkedin.com/in/shiva-yadav1/)
+**Instagram**: [https://www.instagram.com/shivayadav.official/](https://www.instagram.com/shivayadav.official/)
+
+---
+
+> *Still learning. Still breaking things. Still going deeper.*
