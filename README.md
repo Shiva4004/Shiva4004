@@ -32,7 +32,7 @@ I enjoy working close to the boundary where **software meets the operating syste
 
 ## 🚀 Flagship Work
 
-### **QVZ Linux Subsystem for Windows (QVZ-LSW)**
+### **QVZ Windows on Linux (QVZ-LOW)**
 
 An **independent, research-driven systems project** that explores running **Windows PE executables on Linux** by re-implementing the Windows loader and execution model from scratch.
 
